@@ -1,0 +1,48 @@
+body {
+    background-color: white;
+}
+
+.header h1{
+ color: rgb(110, 96, 114);
+ text-align: center;
+}
+
+.container {
+    margin-top: 4px;
+     float: right;
+     margin: 50 auto 0;
+    
+}
+
+.content {
+    width: 800px;
+    float: left;
+    height: auto;
+}
+.link {
+   
+   float: left;
+   padding: auto;
+   margin-right: 2%;
+}
+
+.article {
+    margin-top: 5px;
+    text-align: center;
+    
+}
+h2 {
+    margin-top: 4%;
+    padding: 1%;
+    color: firebrick;
+    text-align: center;
+}
+li{
+    color: darkslategray;
+    text-align: center;
+    list-style-position: inside;
+}
+
+h3 {
+    color: firebrick;
+}
